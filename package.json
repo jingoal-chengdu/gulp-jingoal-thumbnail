@@ -1,0 +1,19 @@
+{
+  "name": "gulp-jingoal-thumbnail",
+  "version": "1.0.2",
+  "description": "自动生成1倍图-今目标雪碧图工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "985867294@qq.com"
+  },
+  "license": "ISC",
+  "directories": {},
+  "dependencies": {
+    "gm": "^1.22.0",
+    "through2": "^2.0.1"
+  },
+  "readmeFilename": "README.md"
+}
